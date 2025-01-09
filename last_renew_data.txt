@@ -1,4 +1,4 @@
-Server ID: eb4749e8
-Renew status: Success
-Last renewal time: 2025-01-07 12:13:05
-New expiration time: 2025-01-17 11:22:16
+Server ID: ac92d651
+Renew status: Failed
+Last renewal time: 2025-01-09 02:25:03
+Error: Time not extended
